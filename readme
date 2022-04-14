@@ -3,4 +3,5 @@ hello
 branch
 trying to merge with maaster branch
 aaaaaaa
-hello my name is sumanjeet and suraj
+<<<<<<< HEAD
+hello my name is sumanjeet and suraj kumar
